@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kavya Sree Katepalli!
 
-<!--
-**kavyasree0801/kavyasree0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Master's @ UMBC | 🧠 AI, ML & Data Enthusiast  
+💻 Skilled in Python, SQL, R, PySpark, XGBoost, FastAPI, Tableau  
+🚀 Projects: AI Fitness Planner | Diabetes Risk Prediction | NLP Movie Recommender  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/kavya-sree-katepalli) | [Email](mailto:kavyasreekatepalli@gmail.com)
 
-Here are some ideas to get you started:
+## 🔍 Projects Spotlight
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎬 **[Movie Recommendation System](https://github.com/kavyasree0801/Movie-Recommendation-system)**  
+  NLP-based movie recommender with 90% accuracy and Tkinter GUI.
+
+- 🏦 **[Loan Approval Prediction](https://github.com/kavyasree0801/Loan-Approval-Prediction-)**  
+  Achieved 94% accuracy using KNN & Logistic Regression with engineered financial features.
+
+- 🧠 **Diabetes Risk Analysis (coming soon)**  
+  ML + statistical testing using BRFSS data and XGBoost + ROSE for 72% balanced accuracy.
+
+✨ More coming soon – working on an AI-powered fitness & diet planner using Groq's Llama3.
