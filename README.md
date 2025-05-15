@@ -1,20 +1,29 @@
-# Hi there, I'm Kavya Sree Katepalli!
+# Hi, I'm Kavya Sree Katepalli
 
-🎓 Data Science Master's @ UMBC | AI, ML & Data Enthusiast  
-💻 Skilled in Python, SQL, R, PySpark, XGBoost, FastAPI, Tableau  
-🚀 Projects: AI Fitness Planner | Diabetes Risk Prediction | NLP Movie Recommender  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/kavya-sree-katepalli) | [Email](mailto:kavyasreekatepalli@gmail.com)
+🎓 Master’s in Data Science @ University of Maryland, Baltimore County (UMBC)  
+💡 Passionate about AI, Machine Learning, and Data-Driven Solutions  
+🧠 Skilled in Python, R, SQL, PySpark, XGBoost, FastAPI, Tableau, and more  
+🚀 Building intelligent systems that make life easier, smarter, and healthier
 
-## Projects Spotlight
+Let’s connect: [LinkedIn](https://linkedin.com/in/kavya-sree-katepalli) | [Email](mailto:kavyasreekatepalli@gmail.com)
+
+---
+
+## Project Highlights
 
 - **[Movie Recommendation System](https://github.com/kavyasree0801/Movie-Recommendation-system)**  
-  NLP-based movie recommender with 90% accuracy and Tkinter GUI.
+  NLP-powered movie recommender with 90% accuracy and an intuitive Tkinter GUI.
 
 - **[Loan Approval Prediction](https://github.com/kavyasree0801/Loan-Approval-Prediction-)**  
-  Achieved 94% accuracy using KNN & Logistic Regression with engineered financial features.
+  Predictive model using KNN and Logistic Regression with feature engineering; achieved 94% accuracy.
 
 - **[Diabetes Risk Analysis](https://github.com/kavyasree0801/Diabetes-Risk-Analysis)**  
-  ML + statistical testing using BRFSS data and XGBoost + ROSE for 72% balanced accuracy.
+  Explored BRFSS data using statistical tests and XGBoost + ROSE resampling to reach 72% balanced accuracy.
 
-- **[Project Vitarka](https://github.com/kavyasree0801/vitarka-ai-fitness-planner)**
-  Engineered a multilingual AI assistant using Groq’s LLaMA3-8B, LangChain, Flask, and Streamlit to deliver personalized fitness and nutrition plans with <5s response time.
+- **[Project Vitarka – AI Fitness Planner](https://github.com/kavyasree0801/vitarka-ai-fitness-planner)**  
+  Multilingual AI assistant built with Groq’s LLaMA3-8B, LangChain, Flask & Streamlit for generating personalized diet/workout plans with <5s response time.
+
+---
+
+*Always curious. Always learning. Always building.*
+
