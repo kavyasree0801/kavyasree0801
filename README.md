@@ -13,7 +13,8 @@
 - **[Loan Approval Prediction](https://github.com/kavyasree0801/Loan-Approval-Prediction-)**  
   Achieved 94% accuracy using KNN & Logistic Regression with engineered financial features.
 
-- **Diabetes Risk Analysis (coming soon)**  
+- **[Diabetes Risk Analysis](https://github.com/kavyasree0801/Diabetes-Risk-Analysis)**  
   ML + statistical testing using BRFSS data and XGBoost + ROSE for 72% balanced accuracy.
 
-More coming soon – working on an AI-powered fitness & diet planner using Groq's Llama3.
+- **[Project Vitarka](https://github.com/kavyasree0801/vitarka-ai-fitness-planner)**
+  Engineered a multilingual AI assistant using Groq’s LLaMA3-8B, LangChain, Flask, and Streamlit to deliver personalized fitness and nutrition plans with <5s response time.
