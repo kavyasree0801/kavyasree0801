@@ -5,7 +5,7 @@
 🧠 Skilled in Python, R, SQL, PySpark, XGBoost, FastAPI, Tableau, and more  
 🚀 Building intelligent systems that make life easier, smarter, and healthier
 
-Let’s connect: [LinkedIn](https://linkedin.com/in/kavya-sree-katepalli) | [Email](mailto:kavyasreekatepalli@gmail.com)
+Let’s connect: [LinkedIn](https://linkedin.com/in/kavya-sree-katepalli)
 
 ---
 
